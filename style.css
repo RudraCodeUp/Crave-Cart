@@ -5,9 +5,9 @@
   --white: #fff;
   --yellow: #01ab15;
   --deep-yellow: #01ab15;
-  --bg-yellow: #c3fda4;
-  --btn-yellow: #c3fda4;
-  --footer-yellow: #c3fda4;
+  --bg-yellow: #d5f4c5;
+  --btn-yellow: #d5f4c5;
+  --footer-yellow: #d5f4c5;
   --grey: #737373;
   --box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.1);
   --transition: all 0.2s linear;
@@ -178,7 +178,7 @@ section {
 }
 
 .home .content p {
-  color: var(--grey);
+  color: var(--black);
   font-size: 1.8rem;
   margin-bottom: 2rem;
 }
@@ -374,11 +374,12 @@ section.app {
 
 section.app .image {
   position: absolute;
-  left: 15%;
+  left: 0%;
+  height: 140%;
 }
 
 section.app .image img {
-  width: 100%;
+  width: 105%;
 }
 
 section.app .content {
