@@ -362,7 +362,7 @@ section.about {
 /* App */
 
 section.app {
-  margin: 10rem 9%;
+  margin: 10rem 0;
   border-radius: 0.5rem;
   background-color: var(--yellow);
   display: grid;
